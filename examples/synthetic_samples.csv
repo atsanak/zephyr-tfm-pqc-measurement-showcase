@@ -1,0 +1,13 @@
+index,current_uA,operation,gate_id
+0,100,,
+1,110,,
+2,150,keypair,k1
+3,160,keypair,k1
+4,105,,
+5,190,sign,s1
+6,200,sign,s1
+7,205,sign,s1
+8,100,,
+9,170,verify,v1
+10,165,verify,v1
+11,100,,

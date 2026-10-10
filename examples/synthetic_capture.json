@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "data_kind": "synthetic",
+  "sample_hz": 100000,
+  "voltage_V": 3.0,
+  "boundary": "Synthetic target supply, including any attached UART/debug load",
+  "sample_count": 12,
+  "samples_sha256": "501bada809b259474faa61662adf7c30603be0ba5586ece0e6657b854a762d11",
+  "expected_gates": {
+    "keypair": 1,
+    "sign": 1,
+    "verify": 1
+  }
+}
